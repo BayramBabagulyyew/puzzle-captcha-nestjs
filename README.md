@@ -8,9 +8,9 @@ puzzle captcha app in Nestjs
 
 ![Screenshot 1](https://github.com/pilotpirxie/devcaptcha/blob/master/img/s1.png)
 
-![Screenshot 2](img/s2.png)
+![Screenshot 2](https://github.com/pilotpirxie/devcaptcha/blob/master/img/s2.png)
 
-![Screenshot 3](img/s3.png)
+![Screenshot 3](https://github.com/pilotpirxie/devcaptcha/blob/master/img/s3.png)
 
 
 ## Front end for this captcha
