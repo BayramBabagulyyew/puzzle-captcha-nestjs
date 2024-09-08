@@ -6,7 +6,7 @@
 
 puzzle captcha app in Nestjs
 
-![Screenshot 1](img/s1.png)
+![Screenshot 1](https://github.com/pilotpirxie/devcaptcha/blob/master/img/s1.png)
 
 ![Screenshot 2](img/s2.png)
 
