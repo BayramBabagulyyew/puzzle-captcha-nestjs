@@ -17,6 +17,11 @@ puzzle captcha app in Nestjs
 
 https://github.com/pilotpirxie/devcaptcha/tree/master/devcaptcha-client
 
+## NOTE!
+
+This captcha translated from express.js to Nestjs. Main source of this:
+https://github.com/pilotpirxie/devcaptcha
+
 ## Installation
 
 ```bash
